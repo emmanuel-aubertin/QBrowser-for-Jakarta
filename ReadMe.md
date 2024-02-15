@@ -1,6 +1,8 @@
 # QBrowser for Glassfish 6+
 
-Starting from Glassfish 6, `javax` is no longer in use. Instead, we present a version of QBrowser that works with Jakarta.
+Starting from Glassfish 6, `javax` is no longer in use. Instead, we present a version of QBrowser that works with `Jakarta`.
+
+More info about QBrowser [here](https://github.com/payara/patched-src-openmq/tree/master/mq/src/share/java/examples/applications/qbrowser)
 
 ## Compile:
 
